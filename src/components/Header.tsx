@@ -22,19 +22,11 @@ const Header = () => {
           </Title>
           <Text size="xl">
             Powered by{' '}
-            <Link
-              href="https://www.gnosis-safe.io/"
-              target="_blank"
-              size="xl"
-            >
+            <Link href="https://www.gnosis-safe.io/" target="_blank" size="xl">
               Safe
-            </Link>
-            {' '}and{' '}
-            <Link
-              href="https://www.gelato.network/"
-              target="_blank"
-              size="xl"
-            >
+            </Link>{' '}
+            and{' '}
+            <Link href="https://www.gelato.network/" target="_blank" size="xl">
               Gelato
             </Link>
           </Text>
