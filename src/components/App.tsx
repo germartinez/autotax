@@ -1,4 +1,5 @@
 import styled from 'styled-components'
+import Body from './Body'
 import Header from './Header'
 
 const Container = styled.div`
@@ -10,6 +11,7 @@ const Container = styled.div`
 const App = () => (
   <Container>
     <Header />
+    <Body />
   </Container>
 )
 

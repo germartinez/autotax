@@ -48,11 +48,11 @@ const Header = () => {
           <Text size="xl">
             Powered by{' '}
             <Link href="https://www.gnosis-safe.io/" target="_blank" size="xl">
-              Safe
+              Gnosis Safe
             </Link>{' '}
             and{' '}
             <Link href="https://www.gelato.network/" target="_blank" size="xl">
-              Gelato
+              Gelato Network
             </Link>
           </Text>
         </div>
